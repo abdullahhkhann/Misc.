@@ -7,4 +7,7 @@ Python switch: Created an array of 10 elements in python and switched their orde
 Simple calculator in java show casing the SLAP(Single Level Abstract Principle)  
 
 ## Main.java
-Simple code implementing the Facade Design Pattern
+Simple code implementing the Facade Design Pattern  
+
+## testFactorial.java  
+Wrote a JUnit test for a method calculating factorials
